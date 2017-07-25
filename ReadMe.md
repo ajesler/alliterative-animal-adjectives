@@ -7,9 +7,10 @@ A simple generator for alliterative animal ajective combinations, such as you mi
 
 ```
 git commit -am "Save local changes" # On master
-git checkout gh-pages
 
 npm run build
+
+git checkout gh-pages
 
 git add -f build
 git commit -am "build@<master-head-commit>"
