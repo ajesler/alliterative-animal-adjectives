@@ -3,6 +3,7 @@
 // https://github.com/davewasmer/readable-id/blob/master/adjectives.json
 // https://github.com/rgbkrk/adjectives/blob/master/index.js
 // https://github.com/a-type/adjective-adjective-animal/blob/master/lib/lists/adjectives.js (partial)
+// https://github.com/aaronbassett/Pass-phrase/blob/master/adjectives.txt
 export const adjectives = [
   'aback',
   'abaft',
@@ -362,6 +363,7 @@ export const adjectives = [
   'crash',
   'craven',
   'crazy',
+  'credible',
   'creepy',
   'crimson',
   'crooked',
@@ -565,6 +567,7 @@ export const adjectives = [
   'ever-present',
   'evergreen',
   'everlasting',
+  'evil',
   'exacting',
   'exasperated',
   'excellent',
@@ -650,6 +653,7 @@ export const adjectives = [
   'flickering',
   'flimsy',
   'flippant',
+  'flipped-out',
   'floral',
   'flowering',
   'flowery',
@@ -1425,6 +1429,7 @@ export const adjectives = [
   'real',
   'realizing',
   'rebel',
+  'rebellious',
   'receptive',
   'recognised',
   'recondite',
@@ -1955,6 +1960,7 @@ export const adjectives = [
   'wary',
   'washed',
   'wasteful',
+  'watchful',
   'waterproof',
   'watery',
   'waved',
@@ -1963,6 +1969,7 @@ export const adjectives = [
   'wealthy',
   'weary',
   'weathered',
+  'wee',
   'well-bred',
   'well-chosen',
   'well-groomed',
@@ -2018,6 +2025,7 @@ export const adjectives = [
   'wretched',
   'wrong',
   'wry',
+  'x-rated',
   'yellow',
   'yielding',
   'young',
