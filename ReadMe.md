@@ -12,8 +12,8 @@ npm run build
 
 git checkout gh-pages
 
-git mv -f build/* .
-git add .
+mv -f build/* .
+git add -p
 git commit -am "build@<master-head-sha>"
 
 git push
