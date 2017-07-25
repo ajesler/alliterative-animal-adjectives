@@ -12,9 +12,10 @@ npm run build
 
 git checkout gh-pages
 
-git add -f build
-git commit -am "build@<master-head-commit>"
-git filter-branch -f --prune-empty --subdirectory-filter build
-git push -f origin gh-pages
+git mv -f build/* .
+git add .
+git commit -am "build@<master-head-sha>"
+
+git push
 git checkout -
 ```
